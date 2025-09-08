@@ -25,11 +25,4 @@ export const register = async (req, res) => {
     }
 }
 
-<<<<<<< HEAD
 // Login
-=======
-// Login
-
-
-
->>>>>>> 871daaec6386c2ce354ab4ee34cb4a788dc6c39a
